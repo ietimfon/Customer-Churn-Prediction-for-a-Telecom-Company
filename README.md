@@ -136,25 +136,25 @@ The top drivers of churn identified by the model include:
 6. Finally, data plan type also influenced churn behavior. Users with unlimited data plans had a churn rate of 32.1%, compared to 16.1% for those on capped data plans.
 
 ### Recommendations
-##### 1. Strengthen Competitive Positioning
+#### 1. Strengthen Competitive Positioning
    - Revise pricing and promotional offers to match or exceed competitors, especially in regions with high churn like California.
    - Introduce loyalty rewards or exclusive upgrades for long-term customers to reduce churn driven by competitor offerings (29.2%).
-##### 2. Upgrade Device Options and Financing
+#### 2. Upgrade Device Options and Financing
    - Expand the range of high-demand devices with flexible financing or upgrade programs to address the churn due to device-related dissatisfaction.
    - Promote device trade-in programs or bundling options to add perceived value.
-##### 3. Improve Customer Support Quality
+#### 3. Improve Customer Support Quality
    - Invest in customer service training to enhance support staff attitude and responsiveness, addressing the 19.6% churn tied to poor service interactions.
    - Implement feedback loops and satisfaction surveys to monitor support quality in real-time.
-##### 4. Targeted Retention Campaigns by Geography
+#### 4. Targeted Retention Campaigns by Geography
    - Focus retention efforts in high-churn states such as California, Ohio, and Pennsylvania with customized offers, localized marketing, and community engagement.
    - Leverage success strategies from low-churn states (e.g., North Carolina and Oklahoma) and replicate effective practices.
-##### 5. Age-Specific Retention Strategies
+#### 5. Age-Specific Retention Strategies
    - For the 60+ segment (34% churn), emphasize simplicity, reliability, and dedicated customer support (e.g., senior-friendly plans, in-store help).
    - Engage younger age groups (20–29 and 40–49) with flexible, digital-first plans and lifestyle benefits aligned with their needs.
-##### 6. Contract Structure Optimization
+#### 6. Contract Structure Optimization
    - Encourage conversion from monthly to yearly contracts through incentives such as discounted rates, bundled services, or bonus data.
    - Test hybrid plans (e.g., 6-month options) for customers hesitant to commit to long-term contracts.
-##### 7. Data Plan Strategy Refinement
+#### 7. Data Plan Strategy Refinement
    - For unlimited plan users (32.1% churn), explore adding value-added services like streaming partnerships or faster throttled speeds post-cap.
    - Offer affordable, customizable data plans for capped users to minimize dissatisfaction and up-sell opportunities.
 
